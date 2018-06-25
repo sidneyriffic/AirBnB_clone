@@ -32,6 +32,7 @@ section.places article
     margin: 2%;
     top: 0px;
     vertical-align: top;
+    flex-grow: 1;
 }
 
 section.places article h2
