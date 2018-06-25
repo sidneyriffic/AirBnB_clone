@@ -73,7 +73,7 @@ section.places article div.information
 
 section.places article div.information div
 {
-    width: 30%;
+    width: 4em;
     height: 1em;
     background-repeat: no-repeat;
     background-position: center;
@@ -82,9 +82,6 @@ section.places article div.information div
     text-align: center;
     font-size: .9em;
 }
-
-section.places article div.user
-{
 
 
 section.places article div.amenities
@@ -95,7 +92,7 @@ section.places article div.amenities
 section.places article div.amenities h2
 {
     text-align: left;
-    border-bottom: 1px solid #DDDDDD
+    border-bottom: 1px solid #DDDDDD;
 }
 
 section.places article div.amenities ul li
