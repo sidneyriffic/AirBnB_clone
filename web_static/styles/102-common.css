@@ -10,6 +10,5 @@ body
 body div.container
 {
     position: relative;
-    width: device-width;
     margin: 3em auto 3em auto;
 }

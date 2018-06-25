@@ -4,7 +4,6 @@ section.places
     top: 100px;
     width: 100%;
     z-index: -100;
-    align: center;
     padding-bottom: 60px;
     text-align: center;
 }
